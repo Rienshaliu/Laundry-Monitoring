@@ -7,8 +7,8 @@
 #include <Wire.h>
 #include <ADXL345.h>
 
-#define WIFI_AP "Lin's iPhone"
-#define WIFI_PASSWORD "0905815789"
+#define WIFI_AP ""
+#define WIFI_PASSWORD ""
 #define WIFI_AUTH LWIFI_WPA  // choose from LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP.
 #define per 50
 #define per1 3
